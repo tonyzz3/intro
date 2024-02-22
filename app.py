@@ -14,9 +14,9 @@ st.write ('we are the one who makes a brighter day', texto)
 
 st.subheader("so let´s start giving")
 
-coll, coll2 = st.colums(2)
+col1, col2 = st.colums(2)
 
-with coll: 
+with col1: 
   st.subheader ("Martha tiene un marca pasos")
   st.write ("Sufre mamón, devuelveme a mi chica") 
   resp= st. checkbox("Mamma mia, here we go again")
