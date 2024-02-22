@@ -24,7 +24,7 @@ with col1:
     st.write("AJU NICE!")
 
 with col2:
-  stsubheader("mimimimi")
+  st.subheader("mimimimi")
   modo = st.radio("there was something in the air that night, the star we bright...", ( "FRANCISCO", "HERNANDO", "FERNANDO"))
   if modo == "FRANCISCO":
     st.write("vete a ver mamma mia plox")
