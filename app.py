@@ -26,10 +26,10 @@ with col1:
 with col2:
   stsubheader("mimimimi")
   modo = st.radio("there was something in the air that night, the star we bright...", ( "FRANCISCO", "HERNANDO", "FERNANDO"))
-  if modo== "FRANCISCO":
-  st.write("...vete a ver mamma mia plox")
+  if modo == "FRANCISCO":
+    st.write("vete a ver mamma mia plox")
   if modo == "HERNANDO":
-  st.write("pues, puedo entenderlo, but u stupid????")
+    st.write("pues, puedo entenderlo, but u stupid????")
   if modo == "FERNANDO":
     st.write ("THEY WERE SHINYING THERE FOR U N ME, FOR LIBERTY FERNANDOOOOO")
   
